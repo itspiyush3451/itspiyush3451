@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/piyush3451" target="blank"><img src="https://img.shields.io/twitter/follow/piyush3451?logo=twitter&style=for-the-badge" alt="piyush3451" /></a> </p>
 
 
-- 🌱 I’m currently learning ** Data Science and FullStack webDevelopment**
+- 🌱 I’m currently learning **Data Science and FullStack webDevelopment**
 
 - 📫 How to reach me **piyus3451@gmail.com**
 
