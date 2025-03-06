@@ -2,7 +2,7 @@
 <h3 align="center">A developer from India</h3>
 <img align ="right"  alt="coding" width=400 src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXg0d245cGltb3lycGZvZjF5cTRyaW5pM2tiam1sZ3p3azVzeDQ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
-<p align="left"><a href="https://www.linkedin.com/in/piyush-yadav-609500234" target="blank"> <img src="https://komarev.com/ghpvc/?username=itspiyush3451&label=Profile%20views&color=0e75b6&style=flat" alt="itspiyush3451" /> </p>
+<p align="left"><a href="https://www.linkedin.com/in/piyush-yadav-609500234/" target="blank"> <img src="https://komarev.com/ghpvc/?username=itspiyush3451&label=Profile%20views&color=0e75b6&style=flat" alt="itspiyush3451" /> </p>
 
 <p align="left"> <a href="https://twitter.com/piyush3451" target="blank"><img src="https://img.shields.io/twitter/follow/piyush3451?logo=twitter&style=for-the-badge" alt="piyush3451" /></a> </p>
 
